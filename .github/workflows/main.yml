@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 env:
-  S3_BUCKET_NAME: aws-s3-gyun
+  S3_BUCKET_NAME: aws-gyun-s3
 
 jobs:
   build:
